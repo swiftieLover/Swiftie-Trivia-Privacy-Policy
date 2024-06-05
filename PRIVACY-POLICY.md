@@ -1,14 +1,21 @@
 # Privacy Policy for Swiftie Lover
 
-Last Updated: December 17, 2023
+Last Updated: June 05, 2024
 
 ## Overview
 
 This privacy policy outlines the types of personal information that is received and collected by Swiftie Lover and how it is used. We are committed to protecting the privacy of our users while providing a personalized and valuable service.
 
+## Subscription Information
+
+Swiftie Lover offers the following auto-renewing subscription options:
+
+1. **Annual Subscription**: $4.99 per year, with a 1-week free trial. This subscription has a duration of one year.
+2. **Monthly Subscription**: $0.99 per month, with a 1-week free trial. This subscription has a duration of one month.
+
 ## Information Collection and Use
 
-Swiftie Lover does not collect any personal data from its users, with the exception of a voluntarily provided user name for leaderboard purposes. 
+Swiftie Lover does not collect any personal data from its users, with the exception of a voluntarily provided user name for leaderboard purposes.
 
 ### Leaderboard
 
@@ -37,5 +44,3 @@ By using Swiftie Lover, users consent to the collection and use of their informa
 ## Contact Us
 
 If you have any questions regarding this privacy policy or the practices of this app, please contact us at SwiftieTrivia@gmail.com.
-
-
