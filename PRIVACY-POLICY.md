@@ -13,6 +13,14 @@ Swiftie Lover offers the following auto-renewing subscription options:
 1. **Annual Subscription**: $4.99 per year, with a 1-week free trial. This subscription has a duration of one year.
 2. **Monthly Subscription**: $0.99 per month, with a 1-week free trial. This subscription has a duration of one month.
 
+### Subscription Details
+
+- Payment will be charged at confirmation of purchase.
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- Subscriptions may be managed by the user. If they purchased a membership through the App Store, auto-renewal may be turned off by going to the user's Account Settings after purchase.
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
 ## Information Collection and Use
 
 Swiftie Lover does not collect any personal data from its users, with the exception of a voluntarily provided user name for leaderboard purposes.
