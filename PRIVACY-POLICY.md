@@ -1,4 +1,4 @@
-# Privacy Policy for Swiftie Policy
+# Privacy Policy for Swiftie Lover
 
 Last Updated: December 17, 2023
 
